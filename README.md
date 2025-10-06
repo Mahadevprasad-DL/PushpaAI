@@ -12,25 +12,25 @@ This project aims to build an AI-powered flower identification system using CNNs
 ---
 
 ## Project Structure
-├── app.py # Flask application
-├── train.py # Script to train CNN model
-├── models/ # Saved CNN model
-├── data/ # Folder containing flower dataset (link provided)
-├── static/
-│ ├── css/ # CSS files
-│ ├── images/ # Sample images for website
-│ └── js/ # JavaScript files
-├── templates/ # HTML templates for web pages
-│ ├── index.html # Upload & prediction page
-│ ├── home.html # Home page
-│ ├── model.html # Model architecture & details
-│ ├── dataset.html # Dataset overview
-│ ├── about.html # About flowers page
-│ ├── results.html # Accuracy and results
-│ └── contact.html # Contact form
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
+├── app.py # Flask application    <br>
+├── train.py # Script to train CNN model  <br>
+├── models/ # Saved CNN model  <br>
+├── data/ # Folder containing flower dataset (link provided)   <br>
+├── static/          <br>
+│ ├── css/ # CSS files   <br>
+│ ├── images/ # Sample images for website  <br>
+│ └── js/ # JavaScript files        <br>
+├── templates/ # HTML templates for web pages  <br>
+│ ├── index.html # Upload & prediction page   <br>
+│ ├── home.html # Home page      <br>
+│ ├── model.html # Model architecture & details    <br>
+│ ├── dataset.html # Dataset overview     <br>
+│ ├── about.html # About flowers page  <br>
+│ ├── results.html # Accuracy and results  <br>
+│ └── contact.html # Contact form  <br>
+├── requirements.txt # Python dependencies  <br>
+└── README.md # Project documentation  <br>
+  <br>
 
 
 ---
