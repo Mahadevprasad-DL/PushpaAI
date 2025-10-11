@@ -35,6 +35,12 @@ This project aims to build an AI-powered flower identification system using CNNs
 
 ---
 
+## Project Home Screen
+
+The home screen is designed to be user-friendly and visually appealing. Features include:
+
+- **Welcome Message:** Brief introduction to PushpaAI
+
 ## Features
 
 ### Home
